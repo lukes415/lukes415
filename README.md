@@ -1,6 +1,4 @@
-## Hi there :smiley:
-
-## About me
+## About me :smiley:
 My name is Luke. I have a background in consulting, product, and software engineering. As of September 2025, I'm currently looking for my next role. I'm eager to leverage modern technology to work on exciting products that shape the future.
 
 ## Current Project
