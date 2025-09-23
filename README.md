@@ -15,7 +15,7 @@ I'm going through this process because it's an opportunity for me to dive deeper
 ## Primary Repos
 - [cfb-ats-data](https://github.com/lukes415/cfb-ats-data)
     - Dataset and models for ATS picks
-- [cfb-ats-api] (https://github.com/lukes415/cfb-ats-api)
+- [cfb-ats-api](https://github.com/lukes415/cfb-ats-api)
     - FastAPI service layer
 - [hate-watch-ios](https://github.com/lukes415/hate-watch-ios)
     - iOS app to delight football fans everywhere that love when the teams they hate lose
